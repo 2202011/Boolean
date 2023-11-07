@@ -78,10 +78,6 @@ const nombresDias = ['Domingo', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Vier
 const nombreDiaSemanaActual = nombresDias[diaSemanaActual]
 console.log('Segundos desde 1 de enero de 1970:', segundosDesde1970)
 
-
-
-
-
 // Solicitar al usuario que ingrese la base y la altura de un triángulo
 var base = parseFloat(prompt("Ingrese la base del triángulo: "))
 var altura = parseFloat(prompt("Ingrese la altura del triángulo: "))
